@@ -1,0 +1,18 @@
+<list>
+	<anime>
+		<name> Tokyo Revengers </name>
+		<image> </image>
+		<season>
+			<number> 1 </number>
+			<rate> 7 </rate>
+		</season>
+	</anime>
+	<anime>
+		<name> Trigun </name>
+		<image> </image>
+		<season>
+			<number> 1 </number>
+			<rate> 9 </rate>
+		</season>
+	</anime>
+</list>
